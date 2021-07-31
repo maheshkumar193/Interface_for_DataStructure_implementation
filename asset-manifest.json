@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Interface_for_DataStructure_implementation/static/js/main.fb2bdea4.chunk.js",
+    "main.js.map": "/Interface_for_DataStructure_implementation/static/js/main.fb2bdea4.chunk.js.map",
+    "runtime-main.js": "/Interface_for_DataStructure_implementation/static/js/runtime-main.63df527e.js",
+    "runtime-main.js.map": "/Interface_for_DataStructure_implementation/static/js/runtime-main.63df527e.js.map",
+    "static/js/2.310979a8.chunk.js": "/Interface_for_DataStructure_implementation/static/js/2.310979a8.chunk.js",
+    "static/js/2.310979a8.chunk.js.map": "/Interface_for_DataStructure_implementation/static/js/2.310979a8.chunk.js.map",
+    "index.html": "/Interface_for_DataStructure_implementation/index.html",
+    "static/js/2.310979a8.chunk.js.LICENSE.txt": "/Interface_for_DataStructure_implementation/static/js/2.310979a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63df527e.js",
+    "static/js/2.310979a8.chunk.js",
+    "static/js/main.fb2bdea4.chunk.js"
+  ]
+}
