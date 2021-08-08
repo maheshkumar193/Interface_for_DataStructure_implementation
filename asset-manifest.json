@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Interface_for_DataStructure_implementation/static/js/main.bc12289c.chunk.js",
-    "main.js.map": "/Interface_for_DataStructure_implementation/static/js/main.bc12289c.chunk.js.map",
+    "main.js": "/Interface_for_DataStructure_implementation/static/js/main.ff25975f.chunk.js",
+    "main.js.map": "/Interface_for_DataStructure_implementation/static/js/main.ff25975f.chunk.js.map",
     "runtime-main.js": "/Interface_for_DataStructure_implementation/static/js/runtime-main.63df527e.js",
     "runtime-main.js.map": "/Interface_for_DataStructure_implementation/static/js/runtime-main.63df527e.js.map",
     "static/js/2.310979a8.chunk.js": "/Interface_for_DataStructure_implementation/static/js/2.310979a8.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.63df527e.js",
     "static/js/2.310979a8.chunk.js",
-    "static/js/main.bc12289c.chunk.js"
+    "static/js/main.ff25975f.chunk.js"
   ]
 }
