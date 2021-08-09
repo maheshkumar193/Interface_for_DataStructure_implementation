@@ -70,3 +70,7 @@ body {
   a:hover{
       color: violet;
   }
+  img{
+    width: 150ppx;
+    height: 150px;
+  }
