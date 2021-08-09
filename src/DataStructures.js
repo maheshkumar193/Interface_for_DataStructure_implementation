@@ -79,7 +79,7 @@ const dataStructures = [
     imgURL:
       "https://www.javatpoint.com/post/resources/article-images/c++-deque/cpp-deque.png",
     codeLink:
-      "https://github.com/maheshkumar193/Data-Structures-Implementation/blob/master/vector.cpp"
+      "https://github.com/maheshkumar193/Data-Structures-Implementation/blob/master/Deque.cpp"
   }
 ];
 
